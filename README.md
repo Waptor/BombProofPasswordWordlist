@@ -1,6 +1,6 @@
 # Bomb-Proof Password Wordlist
 
-I recently saw tacticalrifleman's video over on the Clock App (https://www.tiktok.com/@tacticalrifleman/video/7290736419474132257) and realised that this super cool password generation scheme (as shown) can be cracked with a wordlist of exactly nine entries.
+I recently saw tacticalrifleman's video over on the Clock App (https://www.tiktok.com/@tacticalrifleman/video/7290736419474132257) and umm, please don't do this.
 
 This is a keyboard walk and it’s NOT secure. Firstly, password cracking wordlists already contain common keyboard walks. Second, this method guarantees super low entropy: if someone knows (or guesses) the keyboard walk scheme, they can brute force someone else’s password by hand!
 
